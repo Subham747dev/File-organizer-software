@@ -1,7 +1,7 @@
 import os
 import shutil
 import shutil as sh
-path = r"C:/Users/Subham/Desktop/resume/"
+path = r"FOLDER LOCATION/"
 
 print(os.listdir(path))
 file_name = os.listdir(path)
